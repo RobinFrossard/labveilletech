@@ -25,7 +25,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 [menu]
 [[menu.main]]
   name = 'Home'
-  url = '/'
+  url = '/labveilletech'
   weight = 1
   [[menu.main]]
   name = 'About'
