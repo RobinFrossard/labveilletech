@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/labveilletech/about/about/</loc>
-    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/labveilletech/</loc>
-    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/labveilletech/articles/installation/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/labveilletech/articles/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/labveilletech/</loc>
     <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/labveilletech/articles/structure/</loc>
@@ -44,11 +41,11 @@
     <loc>http://localhost:1313/labveilletech/portfolio/design3/</loc>
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/labveilletech/stack/</loc>
+  </url><url>
     <loc>http://localhost:1313/labveilletech/about/</loc>
   </url><url>
     <loc>http://localhost:1313/labveilletech/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/labveilletech/stack/</loc>
   </url><url>
     <loc>http://localhost:1313/labveilletech/tags/</loc>
   </url>

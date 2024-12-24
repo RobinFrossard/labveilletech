@@ -1,15 +1,14 @@
 ---
 title: About
-description: Sprinkles jelly ipsum sweet biscuit marzipan. Jelly dolor biscuit croissant croissant sweet.
+description: Page décrivant qui je suis
 ---
 
 # Salut 👋
 
-
 ## Ikigai
 En faisant mon Ikigai, j'ai pu voir que la seule chose qui pouvait remplir tous mes besoins tous en me rendant heureux était de rester dans mon domaine de coeur : Le basket.
 
-![Ikigai](/images/ikigai.jpg)
+![Ikigai](../images/ikigai.jpg)
 
 ## Domaine
 Mon Domaine est le basket. J'en fais depuis mes 8 ans. Et j'aimerai me spécialiser dans le coaching, afin de devenir pro dans ce domaine d'ici quelques années.
@@ -21,4 +20,4 @@ Je suis un étudiant en ingénierie des médias. Je suis actuellement dans mon a
 
 ## À propos du site
 
-Ce site a été fait avec "Hugo Digital Garden" et déployé sur GitHub
+Ce site a été fait avec "Hugo Digital Garden" et déployé sur GitHubN
